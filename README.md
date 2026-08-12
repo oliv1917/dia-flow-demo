@@ -4,9 +4,7 @@
 
 ![DIA Flow — 32-second product walkthrough](assets/dia-flow-demo.gif)
 
-*32-second silent walkthrough. The animation restarts automatically.*
-
-**[Open the full-resolution MP4 →](assets/dia-flow-demo.mp4)**
+*The animation restarts automatically.*
 
 > DIA Flow is an exploratory product prototype. It is not clinically validated and is not intended for treatment delivery or clinical decision-making.
 
