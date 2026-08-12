@@ -98,4 +98,4 @@ The next product questions would concern deeper validation with intended users, 
 
 ## About the creator
 
-I am Oliver Rønn Christensen, a product-oriented digital-health professional with experience across digital treatment, AI, user research and cross-functional product development. My work focuses on bridging clinical practice, user needs, technology and product strategy.
+I am Oliver Rønn Christensen, a product-oriented digital professional with experience across digital treatment, AI, user research and cross-functional product development. My work focuses on bridging domain knowledge, user needs, technology and product strategy.
