@@ -2,9 +2,11 @@
 
 **An AI-assisted workspace for turning clinical knowledge into testable digital treatment pathways.**
 
-[![Watch the 32-second DIA Flow product demo](assets/dia-flow-demo-poster.png)](assets/dia-flow-demo.mp4)
+![DIA Flow — 32-second product walkthrough](assets/dia-flow-demo.gif)
 
-**[Watch the 32-second product demo →](assets/dia-flow-demo.mp4)**
+*32-second silent walkthrough. The animation restarts automatically.*
+
+**[Open the full-resolution MP4 →](assets/dia-flow-demo.mp4)**
 
 > DIA Flow is an exploratory product prototype. It is not clinically validated and is not intended for treatment delivery or clinical decision-making.
 
